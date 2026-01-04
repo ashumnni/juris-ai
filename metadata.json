@@ -1,0 +1,8 @@
+
+{
+  "name": "JurisAI Pro",
+  "description": "An advanced AI-powered legal intelligence platform designed for contract analysis, multi-document legal research, and automated risk assessment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
